@@ -38,8 +38,8 @@ You can swap out the PNG image in glass_image/ to try different styles.
 5. Exit the application
 Press the Q key to quit.
 ## Credits
-This project was originally created by **thangnch** as [MiAI_Glasses_Tryon](https://github.com/thangnch/MiAI_Glasses_Tryon).  
+- This project was originally created by **thangnch** as [MiAI_Glasses_Tryon](https://github.com/thangnch/MiAI_Glasses_Tryon).  
 
-This version builds upon the original work with translated English comments, improved documentation, and a redesigned README for better clarity and usability.
+- Modified & personalized by ThalusaniVaishnavi.
 
 
